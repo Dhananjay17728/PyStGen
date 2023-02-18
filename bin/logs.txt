@@ -1,0 +1,24 @@
+Application Started at 2023-01-25 10:51:15.5684332023-01-25 10:51:15.575345 mainFile This is the first launch.
+Application Started at 2023-01-25 11:27:54.9856552023-01-25 11:27:54.998113 mainFile This is the first launch.
+2023-01-25 11:28:03.783962 genSalt Salt created
+2023-01-25 11:28:03.796416 storeGlobal GPwd stored
+2023-01-25 11:28:04.033911 countAccounts No accounts found on startup
+2023-01-25 11:28:04.050166 countAccounts No accounts found on startup
+2023-01-25 11:28:04.068087 countAccounts No accounts found on startup
+2023-01-25 11:28:04.084136 countAccounts No accounts found on startup
+2023-01-25 11:28:52.493179 encrypt[al] Encrypt password request.
+2023-01-25 11:28:52.500325 countAccounts No accounts found on startup
+2023-01-25 11:28:52.506007 addEntry New account added: dfzhg
+2023-01-25 11:28:52.524510 refreshWindow Window has been refreshed.
+2023-01-25 11:28:52.773221 countAccounts Found 1 account(s) on startup
+2023-01-25 11:28:52.786763 countAccounts Found 1 account(s) on startup
+2023-01-25 11:28:52.809609 countAccounts Found 1 account(s) on startup
+2023-01-25 11:28:52.820316 countAccounts Found 1 account(s) on startup
+2023-01-25 11:28:52.830736 countAccounts Found 1 account(s) on startup
+Application Started at 2023-02-18 12:00:21.2519292023-02-18 12:00:21.473985 mainFile Data found
+Application Started at 2023-02-18 12:01:22.5766132023-02-18 12:01:22.587001 mainFile Data found
+2023-02-18 12:01:22.946861 countAccounts Found 1 account(s) on startup
+2023-02-18 12:01:22.966946 countAccounts Found 1 account(s) on startup
+2023-02-18 12:01:23.033732 countAccounts Found 1 account(s) on startup
+2023-02-18 12:01:23.049846 countAccounts Found 1 account(s) on startup
+2023-02-18 12:01:23.056865 countAccounts Found 1 account(s) on startup
